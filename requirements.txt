@@ -1,0 +1,24 @@
+# AI STYLE STUDIO - AI Outfit Recommendation & Style Matching System
+# Production Dependencies for Render & Cloud Deployment
+
+# Numerical & Data Processing
+numpy>=1.26.0
+pandas>=2.0.0
+
+# Computer Vision & Image Processing (headless prevents libGL missing dependency on Linux)
+opencv-python-headless>=4.8.0
+pillow>=10.0.0
+
+# Data Visualization & Heatmaps
+matplotlib>=3.8.0
+seaborn>=0.13.0
+
+# Machine Learning & Metric Calculation
+scikit-learn>=1.4.0
+
+# Deep Learning & CNN Feature Extraction
+tensorflow>=2.16.0
+keras>=3.0.0
+
+# Interactive Web Application
+streamlit>=1.35.0

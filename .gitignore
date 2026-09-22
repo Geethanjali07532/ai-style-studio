@@ -1,0 +1,33 @@
+# Python Environment
+.venv/
+env/
+venv/
+ENV/
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# IDE and OS Files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Heavy Raw Kaggle Dataset (44,400 uncurated images)
+data/raw/
+
+# Temporary and Log files
+*.log
+scratch/
+
+# Keep models, embeddings, curated images, and streamlit config for Render deployment
+!models/category_classifier.keras
+!data/embeddings/fashion_embeddings.npy
+!data/embeddings/embedding_index.csv
+!data/images/
+!.streamlit/config.toml

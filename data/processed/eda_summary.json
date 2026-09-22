@@ -1,0 +1,459 @@
+{
+  "total_items": 44419,
+  "category_counts": {
+    "Accessories": 17350,
+    "T-Shirt": 9390,
+    "Shoes": 7116,
+    "Shirt": 5288,
+    "Sneakers": 2036,
+    "Trousers": 1733,
+    "Jeans": 608,
+    "Dress": 480,
+    "Jacket": 290,
+    "Skirt": 128
+  },
+  "outfit_part_counts": {
+    "accessory": 17350,
+    "top": 15158,
+    "shoes": 9152,
+    "bottom": 2469,
+    "outerwear": 290
+  },
+  "gender_counts": {
+    "Men": 22142,
+    "Women": 18631,
+    "Unisex": 2161,
+    "Boys": 830,
+    "Girls": 655
+  },
+  "gender_by_category": {
+    "Accessories": {
+      "Boys": 46,
+      "Girls": 55,
+      "Men": 6279,
+      "Unisex": 1558,
+      "Women": 9412
+    },
+    "Dress": {
+      "Boys": 0,
+      "Girls": 74,
+      "Men": 0,
+      "Unisex": 0,
+      "Women": 406
+    },
+    "Jacket": {
+      "Boys": 7,
+      "Girls": 0,
+      "Men": 206,
+      "Unisex": 13,
+      "Women": 64
+    },
+    "Jeans": {
+      "Boys": 30,
+      "Girls": 14,
+      "Men": 331,
+      "Unisex": 5,
+      "Women": 228
+    },
+    "Shirt": {
+      "Boys": 83,
+      "Girls": 1,
+      "Men": 2921,
+      "Unisex": 0,
+      "Women": 2283
+    },
+    "Shoes": {
+      "Boys": 51,
+      "Girls": 60,
+      "Men": 4130,
+      "Unisex": 469,
+      "Women": 2406
+    },
+    "Skirt": {
+      "Boys": 0,
+      "Girls": 24,
+      "Men": 0,
+      "Unisex": 0,
+      "Women": 104
+    },
+    "Sneakers": {
+      "Boys": 3,
+      "Girls": 0,
+      "Men": 1590,
+      "Unisex": 43,
+      "Women": 400
+    },
+    "T-Shirt": {
+      "Boys": 534,
+      "Girls": 335,
+      "Men": 5654,
+      "Unisex": 72,
+      "Women": 2795
+    },
+    "Trousers": {
+      "Boys": 76,
+      "Girls": 92,
+      "Men": 1031,
+      "Unisex": 1,
+      "Women": 533
+    }
+  },
+  "usage_counts": {
+    "Casual": 34401,
+    "Sports": 4025,
+    "Ethnic": 3208,
+    "Formal": 2345,
+    "Smart Casual": 67,
+    "Party": 29,
+    "Travel": 26,
+    "Home": 1
+  },
+  "usage_by_category": {
+    "Accessories": {
+      "Casual": 14737,
+      "Ethnic": 1213,
+      "Formal": 562,
+      "Home": 1,
+      "Party": 5,
+      "Smart Casual": 28,
+      "Sports": 478,
+      "Travel": 25
+    },
+    "Dress": {
+      "Casual": 458,
+      "Ethnic": 0,
+      "Formal": 2,
+      "Home": 0,
+      "Party": 19,
+      "Smart Casual": 1,
+      "Sports": 0,
+      "Travel": 0
+    },
+    "Jacket": {
+      "Casual": 194,
+      "Ethnic": 1,
+      "Formal": 7,
+      "Home": 0,
+      "Party": 0,
+      "Smart Casual": 0,
+      "Sports": 76,
+      "Travel": 1
+    },
+    "Jeans": {
+      "Casual": 608,
+      "Ethnic": 0,
+      "Formal": 0,
+      "Home": 0,
+      "Party": 0,
+      "Smart Casual": 0,
+      "Sports": 0,
+      "Travel": 0
+    },
+    "Shirt": {
+      "Casual": 2522,
+      "Ethnic": 1877,
+      "Formal": 866,
+      "Home": 0,
+      "Party": 2,
+      "Smart Casual": 18,
+      "Sports": 0,
+      "Travel": 0
+    },
+    "Shoes": {
+      "Casual": 6385,
+      "Ethnic": 23,
+      "Formal": 654,
+      "Home": 0,
+      "Party": 2,
+      "Smart Casual": 18,
+      "Sports": 32,
+      "Travel": 0
+    },
+    "Skirt": {
+      "Casual": 99,
+      "Ethnic": 11,
+      "Formal": 13,
+      "Home": 0,
+      "Party": 0,
+      "Smart Casual": 0,
+      "Sports": 5,
+      "Travel": 0
+    },
+    "Sneakers": {
+      "Casual": 40,
+      "Ethnic": 0,
+      "Formal": 0,
+      "Home": 0,
+      "Party": 0,
+      "Smart Casual": 0,
+      "Sports": 1996,
+      "Travel": 0
+    },
+    "T-Shirt": {
+      "Casual": 8329,
+      "Ethnic": 46,
+      "Formal": 5,
+      "Home": 0,
+      "Party": 1,
+      "Smart Casual": 0,
+      "Sports": 1009,
+      "Travel": 0
+    },
+    "Trousers": {
+      "Casual": 1029,
+      "Ethnic": 37,
+      "Formal": 236,
+      "Home": 0,
+      "Party": 0,
+      "Smart Casual": 2,
+      "Sports": 429,
+      "Travel": 0
+    }
+  },
+  "season_counts": {
+    "Summer": 21470,
+    "Fall": 11431,
+    "Winter": 8515,
+    "Spring": 2982
+  },
+  "top_metadata_colours": {
+    "Black": 9727,
+    "White": 5538,
+    "Blue": 4917,
+    "Brown": 3494,
+    "Grey": 2741,
+    "Red": 2453,
+    "Green": 2115,
+    "Pink": 1860,
+    "Navy Blue": 1789,
+    "Purple": 1640,
+    "Silver": 1090,
+    "Yellow": 778
+  },
+  "pixel_color_sample": {
+    "sampled_count": 150,
+    "neutral_ratio": 0.593,
+    "sample_palettes": [
+      {
+        "id": "16947",
+        "category": "Accessories",
+        "primary_hex": "#614B40",
+        "primary_rgb": [
+          97,
+          75,
+          64
+        ],
+        "is_neutral": false
+      },
+      {
+        "id": "40524",
+        "category": "Accessories",
+        "primary_hex": "#A99285",
+        "primary_rgb": [
+          169,
+          146,
+          133
+        ],
+        "is_neutral": false
+      },
+      {
+        "id": "36313",
+        "category": "T-Shirt",
+        "primary_hex": "#EED558",
+        "primary_rgb": [
+          238,
+          213,
+          88
+        ],
+        "is_neutral": false
+      },
+      {
+        "id": "44188",
+        "category": "Shoes",
+        "primary_hex": "#454447",
+        "primary_rgb": [
+          69,
+          68,
+          71
+        ],
+        "is_neutral": true
+      },
+      {
+        "id": "33859",
+        "category": "Shoes",
+        "primary_hex": "#8B828C",
+        "primary_rgb": [
+          139,
+          130,
+          140
+        ],
+        "is_neutral": true
+      },
+      {
+        "id": "39306",
+        "category": "Shoes",
+        "primary_hex": "#292929",
+        "primary_rgb": [
+          41,
+          41,
+          41
+        ],
+        "is_neutral": true
+      },
+      {
+        "id": "37097",
+        "category": "T-Shirt",
+        "primary_hex": "#CFBCBD",
+        "primary_rgb": [
+          207,
+          188,
+          189
+        ],
+        "is_neutral": true
+      },
+      {
+        "id": "29705",
+        "category": "Shirt",
+        "primary_hex": "#CBD5DF",
+        "primary_rgb": [
+          203,
+          213,
+          223
+        ],
+        "is_neutral": true
+      },
+      {
+        "id": "56314",
+        "category": "Accessories",
+        "primary_hex": "#212020",
+        "primary_rgb": [
+          33,
+          32,
+          32
+        ],
+        "is_neutral": true
+      },
+      {
+        "id": "13541",
+        "category": "Shoes",
+        "primary_hex": "#85675F",
+        "primary_rgb": [
+          133,
+          103,
+          95
+        ],
+        "is_neutral": false
+      },
+      {
+        "id": "14752",
+        "category": "Shirt",
+        "primary_hex": "#D6D2D2",
+        "primary_rgb": [
+          214,
+          210,
+          210
+        ],
+        "is_neutral": true
+      },
+      {
+        "id": "58298",
+        "category": "Accessories",
+        "primary_hex": "#111114",
+        "primary_rgb": [
+          17,
+          17,
+          20
+        ],
+        "is_neutral": true
+      },
+      {
+        "id": "15310",
+        "category": "Sneakers",
+        "primary_hex": "#373535",
+        "primary_rgb": [
+          55,
+          53,
+          53
+        ],
+        "is_neutral": true
+      },
+      {
+        "id": "13559",
+        "category": "Shoes",
+        "primary_hex": "#3A3837",
+        "primary_rgb": [
+          58,
+          56,
+          55
+        ],
+        "is_neutral": true
+      },
+      {
+        "id": "52311",
+        "category": "Accessories",
+        "primary_hex": "#DADED9",
+        "primary_rgb": [
+          218,
+          222,
+          217
+        ],
+        "is_neutral": true
+      },
+      {
+        "id": "58621",
+        "category": "Accessories",
+        "primary_hex": "#FFFFFE",
+        "primary_rgb": [
+          255,
+          255,
+          254
+        ],
+        "is_neutral": true
+      },
+      {
+        "id": "51325",
+        "category": "Accessories",
+        "primary_hex": "#292929",
+        "primary_rgb": [
+          41,
+          41,
+          41
+        ],
+        "is_neutral": true
+      },
+      {
+        "id": "18713",
+        "category": "Skirt",
+        "primary_hex": "#414647",
+        "primary_rgb": [
+          65,
+          70,
+          71
+        ],
+        "is_neutral": true
+      },
+      {
+        "id": "31133",
+        "category": "Shirt",
+        "primary_hex": "#CACDD0",
+        "primary_rgb": [
+          202,
+          205,
+          208
+        ],
+        "is_neutral": true
+      },
+      {
+        "id": "33729",
+        "category": "Accessories",
+        "primary_hex": "#53505A",
+        "primary_rgb": [
+          83,
+          80,
+          90
+        ],
+        "is_neutral": true
+      }
+    ]
+  }
+}

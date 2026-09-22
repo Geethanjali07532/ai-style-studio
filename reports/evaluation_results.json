@@ -1,0 +1,37 @@
+{
+  "timestamp": "2026-09-20 10:02:03",
+  "catalog_size": 2000,
+  "similarity_retrieval": {
+    "num_queries_evaluated": 60,
+    "avg_query_latency_ms": 7.05,
+    "MRR": 0.6827,
+    "IntraListDiversity@5": 0.204,
+    "Precision@1": 0.5833,
+    "Recall@1": 0.0291,
+    "HitRate@1": 0.5833,
+    "Precision@3": 0.5667,
+    "Recall@3": 0.046,
+    "HitRate@3": 0.7667,
+    "Precision@5": 0.5233,
+    "Recall@5": 0.0584,
+    "HitRate@5": 0.85,
+    "Precision@10": 0.4733,
+    "Recall@10": 0.0897,
+    "HitRate@10": 0.8833
+  },
+  "outfit_recommendation": {
+    "num_outfits_evaluated": 30,
+    "mean_outfit_cohesion": 0.7907,
+    "median_outfit_cohesion": 0.7951,
+    "gender_consistency_rate": 1.0,
+    "avg_unique_colors_per_outfit": 3.27,
+    "avg_generation_latency_ms": 211.26
+  },
+  "catalog_coverage": {
+    "catalog_total_items": 2000,
+    "queries_executed": 60,
+    "top_k_per_query": 5,
+    "unique_items_recommended": 254,
+    "catalog_coverage_percentage": 12.7
+  }
+}
