@@ -16,8 +16,8 @@ seaborn>=0.13.0
 # Machine Learning & Metric Calculation
 scikit-learn>=1.4.0
 
-# Deep Learning & CNN Feature Extraction
-tensorflow>=2.16.0
+# Deep Learning & CNN Feature Extraction (CPU lightweight build for cloud server)
+tensorflow-cpu>=2.16.0
 keras>=3.0.0
 
 # Interactive Web Application
